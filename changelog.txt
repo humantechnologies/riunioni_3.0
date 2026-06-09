@@ -1,3 +1,5 @@
+2026/06/09 rinominata riunioni_3.0
+
 
 Versione 3.0.1  modifiche del 09/06/2026 su versione master (greenlight release 3.0) prova di MM
 modificato /app/views/layout/application.html.erb
