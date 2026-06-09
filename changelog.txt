@@ -1,4 +1,4 @@
- application.html.erb
+
 Versione 3.0.1  modifiche del 09/06/2026 su versione master (greenlight release 3.0) prova di MM
 modificato /app/views/layout/application.html.erb
 righe 20 modificata il <title> in SISTE Counseling
