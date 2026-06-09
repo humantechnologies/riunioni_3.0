@@ -1,4 +1,13 @@
 
-Versione 3.0.1  modifiche del 08/06/2026 su versione master (greenlight release 3.0) prova di MM
+Versione 3.0.1  modifiche del 09/06/2026 su versione master (greenlight release 3.0) prova di MM
+modificato /app/assets/locales/it.json
+righe 34-51 modificata la sezione homepage{}
 
-public/strumenti_per_videoconferenze-PROG.jpg
+
+Versione 3.0.1  modifiche del 09/06/2026 su versione master (greenlight release 3.0) prova di MM
+modificato /app/javascript/compoinenbts/home/HomePage.jsx 
+riga 118 sostituito https://bigbluebutton.org/ con https://sistecounseling.com/
+
+
+Versione 3.0.1  modifiche del 08/06/2026 su versione master (greenlight release 3.0) prova di MM
+caricato public/strumenti_per_videoconferenze-PROG.jpg
