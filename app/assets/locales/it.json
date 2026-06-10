@@ -33,10 +33,10 @@
   "action_permanent": "Questa azione non può essere annullata.",
   "homepage": {
     "welcome_bbb": "Benvenuto nelle aule virtuali di SISTE Counseling s.r.l.",
-    "bigbluebutton_description": "L'accesso alle sale riunioni è possibile solo tramite invito. \n Potete contattare SISTE Counseling per ulteriori informazioni \n Email: info@sistecounseling.com Telefono: (+39) 3313982845",
+    "bigbluebutton_description": "L'accesso alle sale riunioni è possibile solo tramite invito. <b><b> Potete contattare SISTE Counseling per ulteriori informazioni <br> e-mail: info@sistecounseling.com <br> elefono: (+39) 3313982845",
     "greenlight_description": "SISTE Counseling offre strumenti on-line per l'apprendimento applicato con una grande varietà di corsi.",
     "learn_more": "Per saperne di più su SISTE Counseling",
-    "explore_features": "\n\n\n",
+    "explore_features": "<b><b><b>",
     "meeting_title": "Sale Riunioni",
     "meeting_description": "Webinars, video corsi, formazione e lezioni di gruppo.",
     "recording_title": "Resistrazione e Crittografia",
