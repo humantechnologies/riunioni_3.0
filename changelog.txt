@@ -1,3 +1,6 @@
+Versione 3.0.4  modifiche del 10/06/2026 su versione master (greenlight release 3.0) prova di MM
+modificato /app/javascript/compoinenbts/home/HomePage.jsx 
+riga 118 aggiunto  style={{ whiteSpace: 'pre-line' }} per rispettare gli "\n" come "a capo"
 
 
 Versione 3.0.1  modifiche del 09/06/2026 su versione master (greenlight release 3.0) prova di MM
