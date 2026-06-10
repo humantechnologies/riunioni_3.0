@@ -140,6 +140,7 @@ export default function HomePage() {
             />
           </Col>
         )}
+{/*
         <Col className="mb-3">
           <HomepageFeatureCard
             title={t('homepage.settings_title')}
@@ -147,6 +148,7 @@ export default function HomePage() {
             icon={<Cog8ToothIcon className="hi-s text-white" />}
           />
         </Col>
+*/}
         <Col className="mb-3">
           <HomepageFeatureCard
             title={t('homepage.and_more_title')}
