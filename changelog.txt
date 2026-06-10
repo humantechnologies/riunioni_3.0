@@ -1,4 +1,11 @@
 
+Versione 3.0.6  modifiche del 10/06/2026
+/app/javascript/components/shared_components/Footer.jsx
+riga 34 era <a href="https://docs.bigbluebutton.org/greenlight/v3/install" target="_blank" rel="noreferrer">Greenlight</a>
+/app/views/components/index.html.erb
+levati tutti i commenti subito sotto il <body>
+
+
 Versione 3.0.5  modifiche del 10/06/2026 
 modificato /app/views/layout/application.html.erb
 righe 23 modificata property="og:title" in SISTE Counseling
