@@ -1,4 +1,8 @@
 
+Versione 3.0.5  modifiche del 10/06/2026 
+modificato /app/assets/locales/it.json
+righe 44-47 modificata la sezione homepage{}
+
 
 Versione 3.0.5  modifiche del 10/06/2026 
 modificato /app/javascript/components/home/HomePage.jsx 
