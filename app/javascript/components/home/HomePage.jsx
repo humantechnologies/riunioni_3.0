@@ -115,7 +115,7 @@ export default function HomePage() {
             <p className="text-muted fs-5">
               {t('homepage.greenlight_description')}
             </p>
-            <a href="https://sistecounseling.com/" className="fs-5 text-link fw-bolder">
+            <a href="https://sistecounseling.com/" className="fs-5 text-link fw-bolder" style="color: #549b45 !important;">
               {t('homepage.learn_more')}
               <ArrowRightIcon className="hi-s ms-2" />
             </a>
