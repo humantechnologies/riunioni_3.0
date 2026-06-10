@@ -38,8 +38,7 @@ describe MeetingStarter, type: :service do
   let(:options) do
     url = File.join(base_url, '/rooms/', room.friendly_id, '/join')
     {
-#      moderatorOnlyMessage: "#{I18n.t('meeting.moderator_message', locale: user.language.to_sym)}<br>#{url}",
-      moderatorOnlyMessage: "#{I18n.t('meeting.moderator_message', locale: @current_user&.language&.to_sym)}<br>#{url}",
+      moderatorOnlyMessage: "#{I18n.t('meeting.moderator_message', locale: user.language.to_sym)}<br>#{url}",
       loginURL: url,
       logoutURL: url,
       meta_endCallbackUrl: File.join(base_url, '/meeting_ended'),
