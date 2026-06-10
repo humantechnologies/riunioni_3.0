@@ -1,4 +1,10 @@
 
+Versione 3.0.1  modifiche del 10/06/2026 
+modificato /app/views/layout/application.html.erb
+righe 23 modificata property="og:title" in SISTE Counseling
+righe 24 commentata property="og:description"
+
+
 Versione 3.0.5  modifiche del 10/06/2026 
 modificato /app/assets/locales/it.json
 righe 44-47 modificata la sezione homepage{}
