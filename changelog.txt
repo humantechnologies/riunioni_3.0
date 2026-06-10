@@ -2,8 +2,12 @@
 Versione 3.0.6  modifiche del 10/06/2026
 /app/javascript/components/shared_components/Footer.jsx
 riga 34 era <a href="https://docs.bigbluebutton.org/greenlight/v3/install" target="_blank" rel="noreferrer">Greenlight</a>
+
 /app/views/components/index.html.erb
 levati tutti i commenti subito sotto il <body>
+
+/spec/services/meeting_starter_spec.rb
+riga 41 sostituita con la attuale 42
 
 
 Versione 3.0.5  modifiche del 10/06/2026 
