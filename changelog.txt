@@ -2,7 +2,7 @@
 
 Versione 3.0.1  modifiche del 09/06/2026 su versione master (greenlight release 3.0) prova di MM
 modificato /app/assets/locales/it.json
-righe 33 e 36 sostituito \n con <br>
+righe 33, 36, 39 sostituito <b> con \n
 
 2026/06/09 rinominata riunioni_3.0
 
