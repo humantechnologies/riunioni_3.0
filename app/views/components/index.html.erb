@@ -1,20 +1,31 @@
 
 <div id="root"></div>
-<style>
-/* Cambia il colore di tutto il testo del sito */
-  body {
-    color: #495057;; 
-    font-family: "Source Sans Pro" !important;
-  }
-
-/* Cambia lo sfondo e il testo di bottoni e controlli (input, select, textareas) */
-  button, 
-  input, 
-  select, 
-  textarea, 
-  .btn {
-    background-color: #549b45; 
-    color: #ffffff; 
-  }
-</style>
-
+<script>
+  (function() {
+    // 1. Crea l'elemento style
+    const stilePersonalizzato = document.createElement('style');
+    
+    // 2. Definisce le regole CSS con l'effetto hover
+    stilePersonalizzato.textContent = `
+      /* Colore del testo di tutto il sito */
+      body {
+        color: #333333 !important;
+      }
+      
+      /* Stato normale di bottoni e controlli */
+      button, input, select, textarea, .btn {
+        background-color: #007bff !important;
+        color: #ffffff !important;
+        transition: background-color 0.2s ease !important; /* Rende il cambio colore fluido */
+      }
+      
+      /* Stato al passaggio del mouse (mouseover / hover) - Tonalità più scura */
+      button:hover, input:hover, select:hover, textarea:hover, .btn:hover {
+        background-color: #0056b3 !important;
+      }
+    `;
+    
+    // 3. Inserisce il tag style nella pagina
+    document.body.appendChild(stilePersonalizzato);
+  })();
+</script>
