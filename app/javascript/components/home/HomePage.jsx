@@ -109,7 +109,7 @@ export default function HomePage() {
         <Col lg={10}>
           <div id="homepage-hero">
             <h1 className="my-4"> {t('homepage.welcome_bbb')} </h1>
-            <p className="text-muted fs-5">
+            <p className="text-muted fs-5" style={{ whiteSpace: 'pre-line' }}>
               {t('homepage.bigbluebutton_description')}
             </p>
             <p className="text-muted fs-5">
