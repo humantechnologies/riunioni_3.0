@@ -1,3 +1,10 @@
+
+
+Versione 3.0.5  modifiche del 10/06/2026 
+modificato /app/javascript/components/home/HomePage.jsx 
+riga 143-151 commentato il 3 blocco quello con l'icona dell'ingranaggio
+
+
 Versione 3.0.4  modifiche del 10/06/2026 su versione master (greenlight release 3.0) prova di MM
 modificato /app/javascript/components/home/HomePage.jsx 
 riga 118 aggiunto  style={{ whiteSpace: 'pre-line' }} per rispettare gli "\n" come "a capo"
