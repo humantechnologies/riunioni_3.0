@@ -46,7 +46,7 @@
     "and_more_title": "Lavagna Virtuale e Condivisione Schermo",
     "and_more_description": "Strumenti didattici per una efficace gestione e condivisione del materiale di formazione.",
     "enter_meeting_url": "Inserisci l'URL dell'incontro",
-    "enter_meeting_url_instruction": "Inserisci l'URL della sessione SISTE Counseling nel campo sottostante."
+    "enter_meeting_url_instruction": "Inserisci l'URL della sessione del meeting nel campo sottostante."
   },
   "authentication": {
     "sign_in": "Accedi",
@@ -186,7 +186,7 @@
     "protected": "Protetta",
     "public": "Pubblica",
     "public_protected": "Pubblica/Protetta",
-    "formats_help": "Visualizza i formati di riproduzione disponibili. Selezionando un formato si apre la registrazione BigBlueButton in una nuova scheda.",
+    "formats_help": "Visualizza i formati di riproduzione disponibili. Selezionando un formato si apre la registrazione in una nuova scheda.",
     "visibility_help": {
       "public_protected": "La registrazione è disponibile nella pagina Registrazioni pubbliche, accessibile dalla pagina Partecipa alla Stanza. Può anche essere condivisa con altri tramite un link di accesso una tantum.",
       "public": "La registrazione è disponibile nella pagina Registrazioni pubbliche, accessibile dalla pagina Partecipa alla stanza, e il suo collegamento può essere condiviso con chiunque",
@@ -276,7 +276,7 @@
     },
     "site_settings": {
       "site_settings": "Impostazioni del sito",
-      "customize_greenlight": "Personalizza Greenlight",
+      "customize_greenlight": "Personalizza l'interfaccia",
       "appearance": {
         "appearance": "Aspetto",
         "brand_color": "Colore del marchio",
@@ -354,15 +354,15 @@
         "allow_room_to_be_recorded": "Permetti la registrazione per l'aula",
         "allow_room_to_be_recorded_description": "Permetti ai proprietari dell'aula di specificare se vogliono la possibilità di registrare l'aula o no. Se attivato, il moderatore deve comunque premere il pulsante 'Registra' dopo l'avvio della sessione.",
         "require_user_signed_in": "Richiedi l'iscrizione degli utenti prima di partecipare",
-        "require_user_signed_in_description": "Permetti solo a chi ha un'utenza su Greenlight di partecipare all'incontro. Se non ha fatto accesso, verrà rimandato alla pagina di login quando proverà ad accedere a un'aula.",
+        "require_user_signed_in_description": "Permetti solo a chi ha un'utenza sulla piattaforma di SISTE Counseling di partecipare all'incontro. Se non ha fatto accesso, verrà rimandato alla pagina di login quando proverà ad accedere a un'aula.",
         "require_mod_approval": "Richiedi l'approvazione di un moderatore prima di accedere",
         "require_mod_approval_description": "Chiede al moderatore dell'incontro su BigBlueButton quando un utente prova ad accedere. Se l'utente viene approvato, potrà partecipare all'incontro.",
         "allow_any_user_to_start_meeting": "Permette a tutti gli utenti di avviare la sessione",
         "allow_any_user_to_start_meeting_description": "Permette a tutti gli utenti di avviare l'incontro in qualsiasi momento. Normalmente solo il proprietario dell'aula può avviare l'incontro.",
         "allow_users_to_join_as_mods": "Tutti gli utenti sono moderatori all'accesso",
-        "allow_users_to_join_as_mods_description": "Assegna a tutti gli utenti i privilegi di moderatore in BigBlueButton quando accedono all'incontro",
+        "allow_users_to_join_as_mods_description": "Assegna a tutti gli utenti i privilegi di moderatore in SISTE Counseling quando accedono all'incontro",
         "mute_users_on_join": "Silenzia gli utenti all'accesso",
-        "mute_users_on_join_description": "Silenzia automaticamente l'utente quando accede all'incontro BigBlueButton",
+        "mute_users_on_join_description": "Silenzia automaticamente l'utente quando accede all'incontro SISTE Counseling",
         "viewer_access_code": "Codice accesso partecipante",
         "viewer_access_code_description": "Permette ai proprietari dell'aula di avere un codice alfanumerico casuale da condividere con gli utenti. Il codice, se generato, verrà richiesto agli utenti per accedere agli incontri dell'aula.",
         "mod_access_code": "Codice accesso moderatore",
@@ -501,7 +501,7 @@
   "account_activation_page": {
     "title": "Attivazione utenza",
     "account_unverified": "L'utenza non è ancora stata verificata.",
-    "message": "Per usare Greenlight, si prega di verificare l'utenza seguendo le istruzioni dell'email di attivazione che abbiamo inviato.",
+    "message": "Per usare la piattaforma, si prega di verificare l'utenza seguendo le istruzioni dell'email di attivazione che abbiamo inviato.",
     "resend_activation_link": "Se non hai ricevuto un'email di attivazione o se hai un problema nell'usarla, premi il pulsante qui sotto per richiederne una nuova.",
     "resend_btn_lbl": "Invia una nuova email di verifica"
   },
