@@ -32,7 +32,7 @@
   "no_result_search_input": "Nessun risultato per \"{{ searchInput }}\"",
   "action_permanent": "Questa azione non può essere annullata.",
   "homepage": {
-    "welcome_bbb": "Benvenuto nelle aule virtuali di SISTE Counseling s.r.l.",
+    "welcome_bbb": "Benvenuto nelle aule virtuali\ndi SISTE Counseling s.r.l.",
     "bigbluebutton_description": "L'accesso alle sale riunioni è possibile solo tramite invito.\n\nPotete contattare SISTE Counseling per ulteriori informazioni\ne-mail: info@sistecounseling.com\ntelefono: (+39) 3313982845",
     "greenlight_description": "SISTE Counseling offre strumenti on-line per l'apprendimento applicato con una grande varietà di corsi.",
     "learn_more": "Per saperne di più su SISTE Counseling",
